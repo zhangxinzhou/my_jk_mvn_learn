@@ -17,7 +17,7 @@ public class DemoApplication {
     @RequestMapping("/test")
     @ResponseBody
     public String test() {
-        return "test1";
+        return "test2";
     }
 
 }
